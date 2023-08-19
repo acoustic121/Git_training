@@ -1,3 +1,7 @@
 this is file2
 sangam
+<<<<<<< Updated upstream
 this is urgent fix
+=======
+this is stash2
+>>>>>>> Stashed changes
